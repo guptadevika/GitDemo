@@ -8,6 +8,7 @@ public class DemoTest {
 	public void demo()
 	{
 		System.out.println("hello");
+		System.out.println("world");
 	}
 	@Test
 	public void login()
